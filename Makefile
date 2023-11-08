@@ -21,4 +21,4 @@ deploy:
 	#delopy args
 
 all:
-	install lint test format deploy
+	#install lint test format deploy
